@@ -1,0 +1,20 @@
+{
+  "name": "radar-client-web",
+  "version": "0.0.1",
+  "description": "Radar client for the web with bundled engine.io and minilog dependencies.",
+  "main": "lib/index.js",
+  "repository": "https://github.com/MustansirZia/radar-client-web",
+  "author": "Mustansir Zia",
+  "license": "MIT",
+  "scripts": {
+    "build": "browserify lib/index.js -o dist/index.js"    
+  },
+  "dependencies": {
+    "engine.io-client": "^3.2.1",
+    "minilog": "^3.1.0",
+    "radar_client": "^0.16.2"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.2"
+  }
+}
