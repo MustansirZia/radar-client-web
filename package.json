@@ -1,7 +1,7 @@
 {
   "name": "radar-client-web",
   "version": "0.0.1",
-  "description": "Radar client for the web with bundled engine.io and minilog dependencies.",
+  "description": "Radar client for the web with bundled engine.io and minilog dependencies served over a CDN and minified using jsDelivr.",
   "main": "lib/index.js",
   "repository": "https://github.com/MustansirZia/radar-client-web",
   "author": "Mustansir Zia",
