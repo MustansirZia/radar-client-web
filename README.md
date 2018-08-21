@@ -8,6 +8,7 @@
 
 [Browserify](http://browserify.org/) is used to build a browser compatible build from the related npm packages.
 
+<br />
 
 ## Installation.
 
