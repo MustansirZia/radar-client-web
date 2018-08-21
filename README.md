@@ -1,5 +1,5 @@
 # radar-client-web.
-[![](https://data.jsdelivr.com/v1/package/gh/mustansirzia/radar-client-web/badge)](https://www.jsdelivr.com/package/gh/mustansirzia/radar-client-web)
+[![](https://data.jsdelivr.com/v1/package/gh/mustansirzia/radar-client-web/badge?style=rounded)](https://www.jsdelivr.com/package/gh/mustansirzia/radar-client-web)
 [![GitHub tag](https://img.shields.io/github/tag/MustansirZia/radar-client-web.svg?style=flat)](https://github.com/MustansirZia/go-rethinklogger/releases)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
