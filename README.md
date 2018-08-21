@@ -23,6 +23,30 @@ Non-Minified.
 
 <br />
 
+## Usage.
+```html
+    <script>
+         RadarClient.configure({
+            host: "xyz.com",
+            port: 80,
+            userId: "abc",
+            userType: 0,
+            accountName: 'radar_account'
+        });
+
+        RadarClient.alloc('radar_account', function() {
+            RadarClient
+                .message('messaging')
+                .on(function(message) {     
+                        alert(message);
+                })
+                .sync();
+        });
+    <script>
+```
+
+<br />
+
 ## Further References.
 •  Radar (http://radar.zendesk.com/index.html).
 
